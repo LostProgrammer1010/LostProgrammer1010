@@ -5,9 +5,10 @@
 ## Hi there! Dustin Here!
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/DustinMeyer)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dmeyerwork@gmail.com)
 
-About
+### About me:
+
 
 <br>
 
@@ -15,35 +16,21 @@ About
 
 ```json
 {
-  "language": [],
-  "frontend": [],
-  "backend": [],
-  "testing": []
-  "database": [],
-  "devOps": [],
+  "language": ["Python", "Javascript", "Java", "Rust"],
+  "frontend": ["HTML/CSS", "React", "React Native"],
+  "backend":  ["Django"],
+  "database": ["mySQL", "SQLlite", "MongoDB", "Postgres"],
+  "devOps":   ["Docker"]
 }
 ```
 
 </br>
 
 ### Github Stats
+<div>
+  <img style="width: 40%;" src="http://github-readme-streak-stats.herokuapp.com?user=LostProgrammer1010&theme=radical&background=0A0A0A&stroke=CDB4DB&ring=CDB4DB&currStreakNum=D3D3D3&sideNums=D3D3D3&dates=CDB4DB"/>
+  <img style="width: 35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LostProgrammer1010&layout=compact&theme=dark&bg_color=0A0A0A" alt="My Top Languages"/>
+</div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LostProgrammer1010&theme=radical&background=0A0A0A&stroke=CDB4DB&ring=CDB4DB&currStreakNum=D3D3D3&sideNums=D3D3D3&dates=CDB4DB)](https://git.io/streak-stats)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LostProgrammer1010&layout=compact&theme=dark&bg_color=0A0A0A" alt="Sajidul Kabir Top Languages"/>
 <br />
 
-### About me:
-
-- 🔭 I’m currently working on: Web Applications
-- 🌱 I’m currently learning: Vue.js, jest, CI/CD
-- 👯 I’m looking to collaborate on: Large scale web projects
-- 🤔 I’m looking for help with: System Design, Software Architechture
-- 💬 Ask me about: Vue.js, Backend Development, Project Structures and Design Patterns
-- ⚡ Fun fact: Otters are cool
-
----
-
-Credit: [sajidul-kabir](https://github.com/sajidul-kabir)
-
-Last Edited on: 26/08/2022
