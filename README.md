@@ -43,3 +43,14 @@
 - Program everyday of 2025
 - Attend a hackathon with some friends
 
+
+<details>
+
+Work in Progress only been learning for about a year now
+<summary>Japanese Translations</summary>
+  こにちわ！ダスティンです。
+
+  ### 私について
+  - プログラムは五歳くらいです。
+  - プログラミングにパイソンを使います。
+</details>
