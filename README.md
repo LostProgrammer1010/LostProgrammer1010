@@ -8,7 +8,10 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dmeyerwork@gmail.com)
 
 ### About me:
-
+- I have been programming for about 5 years now
+- I mostly program in python but I have no preference
+- I enjoy building things from the ground up (sometimes making my life harder)
+- I find solving algorithm problems fun 
 
 <br>
 
@@ -33,4 +36,10 @@
 </div>
 
 <br />
+
+### Goals 
+- Work for a software engineering company
+- Solve all 2024 adventofcode questions (python)
+- Program everyday of 2025
+- Attend a hackathon with some friends
 
