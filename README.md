@@ -40,7 +40,7 @@
 ### Goals 
 - Work for a software engineering company
 - Solve all 2024 adventofcode questions (python)
-- Program everyday of 2025
+- Program everyday of 2025 (try not forget to push it to github)
 - Attend a hackathon with some friends
 
 
