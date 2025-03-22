@@ -31,7 +31,6 @@
 
 ### Github Stats
 <div>
-  <img style="width: 40%;" src="http://github-readme-streak-stats.herokuapp.com/user=LostProgrammer1010&theme=radical&background=0A0A0A&stroke=CDB4DB&ring=CDB4DB&currStreakNum=D3D3D3&sideNums=D3D3D3&dates=CDB4DB"/>
   <img style="width: 35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LostProgrammer1010&layout=compact&theme=dark&bg_color=0A0A0A" alt="My Top Languages"/>
 </div>
 
