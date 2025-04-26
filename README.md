@@ -7,11 +7,8 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/DustinMeyer)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dmeyerwork@gmail.com)
 
-### About me:
-- I have been programming for about 5 years now
-- I mostly program in python but I have no preference
-- I enjoy building things from the ground up (sometimes making my life harder)
-- I find solving algorithm problems fun 
+### About me
+I’m a full-stack developer with a passion for simplifying workflows. I love taking processes that are time-consuming or overly complicated and streamlining them — whether that means consolidating multiple applications into one, or transforming a difficult system into something manageable with just a few clicks.
 
 <br>
 
@@ -19,11 +16,10 @@
 
 ```json
 {
-  "language": ["Python", "Javascript", "Java", "Rust"],
-  "frontend": ["HTML/CSS", "React", "React Native"],
-  "backend":  ["Django"],
-  "database": ["mySQL", "SQLlite", "MongoDB", "Postgres"],
-  "devOps":   ["Docker"]
+  "language": ["Python", "Javascript", "Go", "TypeScript"],
+  "Frameworks": ["React", "React Native", "Django"],
+  "database": ["SQL", "MongoDB", "Postgres"],
+  "Tools":   ["Docker", "Git", "Neovim"]
 }
 ```
 
@@ -38,18 +34,6 @@
 
 ### Goals 
 - Work for a software engineering company
-- Solve all 2024 adventofcode questions (python)
 - Program everyday of 2025 (try not forget to push it to github)
 - Attend a hackathon with some friends
-
-
-<details>
-
-Work in Progress only been learning for about a year now
-<summary>Japanese Translations</summary>
-  こにちわ！ダスティンです。
-
-  ### 私について
-  - プログラムは五歳くらいです。
-  - プログラミングにパイソンを使います。
-</details>
+- Start a Youtube channel
