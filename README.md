@@ -17,9 +17,9 @@ I’m a full-stack developer with a passion for simplifying workflows. I love ta
 ```json
 {
   "language": ["Python", "Javascript", "Go", "TypeScript"],
-  "Frameworks": ["React", "React Native", "Django"],
+  "frameworks": ["React", "React Native", "Django"],
   "database": ["SQL", "MongoDB", "Postgres"],
-  "Tools":   ["Docker", "Git", "Neovim"]
+  "tools":   ["Docker", "Git", "Neovim"]
 }
 ```
 
